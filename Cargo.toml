@@ -1,0 +1,8 @@
+[package]
+name = "isaac_randomizer"
+version = "0.1.0"
+authors = ["HenningTonko <henninghtonko@gmail.com>"]
+
+[dependencies]
+gtk = "*"
+rand = "*"
